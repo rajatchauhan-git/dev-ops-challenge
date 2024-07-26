@@ -2,7 +2,7 @@
 
 https://d1yr670m6vsud2.cloudfront.net/
 
-https://d1yr670m6vsud2.cloudfront.net/devops-folder/
+Second hosting throwing error
 
 ---
 
