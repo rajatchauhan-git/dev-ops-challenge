@@ -1,8 +1,8 @@
 ## **Solution/Assignment 1**
 
-https://d1yr670m6vsud2.cloudfront.net/
+https://d1nwkm4qkm211w.cloudfront.net/
 
-https://d1yr670m6vsud2.cloudfront.net/devops-folder/  -- Second hosting throwing error
+https://d1nwkm4qkm211w.cloudfront.net/devops-folder/
 
 ---
 
